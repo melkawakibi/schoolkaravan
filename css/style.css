@@ -1,0 +1,48 @@
+.navbar{
+	margin-bottom: 0px; 
+}
+
+.navbar-nav{
+	margin-right: 30px;
+}
+
+.menu-button{
+	background-color: #e0e0e0;
+}
+
+.btn{
+	margin-top: 20px;
+}
+
+section:nth-of-type(odd) {
+    background: #e0e0e0;
+}
+
+section{
+	min-height: 50vh;
+}
+
+form{
+	margin-bottom: 20px;
+}
+
+.footer{
+	background-color: #323030;
+	color:#fff;
+	min-height: 10vh;
+}
+
+li > span{
+	margin-left: 10px;
+}
+
+.contact-info{
+	height: 50vh;
+	display: flex;
+  	align-items: center;
+  	background-color: #ECEAEA;
+}
+
+.contact-info > ul{
+  	list-style: none;
+}
